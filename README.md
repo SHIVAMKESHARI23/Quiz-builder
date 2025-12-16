@@ -255,14 +255,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - axios, chart.js, react-chartjs-2
 - react-toastify
 
-## 🤝 Contributing
-
-This is a complete production-ready application. Feel free to fork and customize.
-
-## 📄 License
-
-MIT License
-
-## 👨‍💻 Author
-
-Built with ❤️ for educational purposes
