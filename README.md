@@ -5,7 +5,7 @@ A comprehensive quiz platform built with React and Node.js that allows users to 
 ## ✨ Features
 
 ### 🔐 Authentication & Authorization
-- User registration and login with JWT
+- User registration and login
 - Role-based access (Users & Quiz Owners)
 - Protected routes and API endpoints
 
