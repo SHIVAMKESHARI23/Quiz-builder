@@ -45,8 +45,7 @@ A comprehensive quiz platform built with React and Node.js that allows users to 
 - React 18 + Vite
 - React Router DOM
 - Axios + Chart.js
-- React Toastify
-- CSS3 (Responsive)
+- CSS (Responsive)
 
 **Backend:**
 - Node.js + Express.js
@@ -131,31 +130,6 @@ quiz-builder/
 └── README.md
 ```
 
-## 🔧 Available Scripts
-
-### Backend
-```bash
-npm run dev      # Start development server
-npm run start    # Start production server
-npm run reset    # Reset database with sample data
-npm run seed     # Seed database only
-```
-
-### Frontend
-```bash
-npm run dev      # Start development server
-npm run build    # Build for production
-npm run preview  # Preview production build
-```
-
-## 🧪 Testing
-
-- **Postman Collection** included (`Quiz_Builder_API.postman_collection.json`)
-- **Sample Data** automatically seeded
-- **Test Credentials** provided for immediate testing
-
-## 🌟 Key Features Showcase
-
 ### For Quiz Takers:
 - 🔍 **Smart Filtering** - Find quizzes by category, difficulty, or search
 - ⏱️ **Timer Challenge** - Real-time countdown with visual indicators
@@ -190,10 +164,6 @@ npm run preview  # Preview production build
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - OpenAI for AI-powered explanations
@@ -226,29 +196,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - overallAccuracy, categoryPerformance[]
 - lastUpdated
 
-## 🚀 Deployment
-
-### Backend Deployment (Heroku/Railway)
-1. Set environment variables
-2. Deploy from Git repository
-3. Run seed command
-
-### Frontend Deployment (Vercel/Netlify)
-1. Build: `npm run build`
-2. Set VITE_API_URL to production backend URL
-3. Deploy dist folder
-
-### Database (MongoDB Atlas)
-1. Create cluster
-2. Get connection string
-3. Update MONGODB_URI
-
 ## 📦 Dependencies
 
 ### Backend
 - express, mongoose, bcryptjs, jsonwebtoken
-- dotenv, cors, express-validator
-- express-rate-limit, openai
+- openai
 
 ### Frontend
 - react, react-dom, react-router-dom
