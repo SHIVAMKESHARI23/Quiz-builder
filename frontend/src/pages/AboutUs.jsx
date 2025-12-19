@@ -14,14 +14,14 @@ const AboutUs = () => {
   const teamMembers = [
     {
       name: 'Shivam Keshari',
-      role: 'Backend & Database Developer',
+      role: 'Frontend & Backend (Database)',
       image: '/assets/images/Shivam2.jpeg',
       description: 'Shivam specializes in building robust backend systems and database architectures. With expertise in Node.js and MongoDB, he ensures our quiz platform runs smoothly and efficiently, handling complex data operations and API integrations.',
       skills: ['Node.js', 'MongoDB', 'Express.js', 'Database Design','API Development','n8n','Git','React'],
       contact: {
         phone: '+91 9347804434',
         location: 'Jaipur, India',
-        email: 'shivamkeshar2327@gmail.com'
+        email: 'shivamkeshari2327@gmail.com'
       },
       social: {
         github: 'https://github.com/SHIVAMKESHARI23',
@@ -34,9 +34,9 @@ const AboutUs = () => {
       role: 'Frontend & Backend Developer',
       image: '/assets/images/manish.jpeg',
       description: 'Manish is a versatile full-stack developer who bridges the gap between frontend and backend development. His expertise in React.js and modern web technologies helps create seamless user experiences across our platform.',
-      skills: ['React.js', 'Node.js', 'JavaScript', 'Full Stack Development', 'UI/UX'],
+      skills: ['React.js', 'Node.js', 'JavaScript','MongoDB', 'Full Stack Development'],
       contact: {
-        phone: '+91 1234534290',
+        phone: '+91 9760846762',
         location: 'Uttarakhand, India',
         email: 'singh.manish.rudp@gmail.com'
       },
@@ -51,9 +51,9 @@ const AboutUs = () => {
       role: 'Team Leader & Frontend Developer',
       image: '/assets/images/kajal.jpeg',
       description: 'Kajal leads our development team with exceptional project management skills and frontend expertise. She coordinates all aspects of development while ensuring our user interface is intuitive, accessible, and visually appealing.',
-      skills: ['Team Leadership', 'React.js', 'Project Management', 'Canva','Frontend Development', 'Coordination','PHP','NODEJS','Tailwindcss'],
+      skills: ['Team Leadership', 'React.js', 'Project Management', 'Canva','Frontend Development', 'PHP','NODEJS','Tailwindcss'],
       contact: {
-        phone: '+91 4232178900',
+        phone: '+91 7572042070',
         location: 'Lucknow, India',
         email: 'kiara2005kajal@gmail.com'
       },
